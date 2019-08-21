@@ -1,5 +1,5 @@
 #include <cstdio>
-using namspace std;
+using namespace std;
 int main(){
 int n=6,k=3,m;
 int nu[n],ak[k];
