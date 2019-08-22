@@ -15,6 +15,6 @@ return ;
 }
 int main(){
 //scanf("%d %d",&n,&k);
-dfs(0,1);
+dfs(-1,0);
 return 0;
 }
